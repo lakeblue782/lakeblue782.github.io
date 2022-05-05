@@ -1,0 +1,12 @@
+.lgcustom {
+  line-height: 150%;
+}
+
+.gradient {
+  background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+}
+
+.container {
+  max-width: 60% !important;
+}
+
